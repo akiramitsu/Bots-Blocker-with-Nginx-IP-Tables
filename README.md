@@ -9,6 +9,12 @@ $ wget https://raw.githubusercontent.com/teguhmicro/Bot-Blocker-with-Nginx-IP-Ta
 $ bash bots.sh
 ```
 
+Ubuntu
+```bash
+$ wget https://raw.githubusercontent.com/teguhmicro/Bot-Blocker-with-Nginx-IP-Tables/master/bots.sh -O bots.sh
+$ bash bots.sh
+```
+
 ## MIT License ##
 
 Copyright (c) 2017 Teguh Aprianto
