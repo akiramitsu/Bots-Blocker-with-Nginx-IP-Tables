@@ -11,7 +11,7 @@ $ bash bots.sh
 
 Ubuntu
 ```bash
-$ wget https://raw.githubusercontent.com/teguhmicro/Bot-Blocker-with-Nginx-IP-Tables/master/bots.sh -O bots.sh
+$ wget https://raw.githubusercontent.com/akiramitsu/Bots-Blocker-with-Nginx-IP-Tables/master/ubuntu.sh -O bots.sh
 $ bash bots.sh
 ```
 
