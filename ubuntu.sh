@@ -1,11 +1,26 @@
 #!/bin/bash
-# Nginx Bad Bots Blocker Auto Installer (ubuntu)
-# Recode by: c0g4n
-# Original code:
-# Nginx Bad Bots Blocker Auto Installer (centos)
-# Teguh Aprianto
+# Nginx Bad Bots Blocker Auto Installer
+# Created by Teguh Aprianto
 # https://bukancoder | https://teguh.co
-# https://raw.githubusercontent.com/teguhmicro/Bots-Blocker-with-Nginx-IP-Tables/master/bots.sh
+
+IJO='\e[38;5;82m'
+MAG='\e[35m'
+RESET='\e[0m'
+
+echo -e "$IJO                                                                                   $RESET"
+echo -e "$IJO __________       __                    $MAG _________            .___             $RESET"
+echo -e "$IJO \______   \__ __|  | _______    ____   $MAG \_   ___ \  ____   __| _/___________  $RESET"
+echo -e "$IJO  |    |  _/  |  \  |/ /\__  \  /    \  $MAG /    \  \/ /  _ \ / __ |/ __ \_  __ \ $RESET"
+echo -e "$IJO  |    |   \  |  /    <  / __ \|   |  \ $MAG \     \___(  <_> ) /_/ \  ___/|  | \/ $RESET"
+echo -e "$IJO  |______  /____/|__|_ \(____  /___|  / $MAG  \______  /\____/\____ |\___  >__|    $RESET"
+echo -e "$IJO        \/           \/     \/     \/   $MAG        \/            \/    \/         $RESET"
+echo -e "$IJO ---------------------------------------------------------------------------       $RESET"
+echo -e "$IJO |$MAG        Auto Installer to Block Bad Bots with Nginx and IPTables         $IJO| $RESET"
+echo -e "$IJO ---------------------------------------------------------------------------       $RESET"
+echo -e "$IJO |$IJO                               Created by                                $IJO| $RESET"
+echo -e "$IJO |$MAG                             Teguh Aprianto                              $IJO| $RESET"
+echo -e "$IJO ---------------------------------------------------------------------------       $RESET"
+echo ""
 
 IJO='\e[38;5;82m'
 MAG='\e[35m'
